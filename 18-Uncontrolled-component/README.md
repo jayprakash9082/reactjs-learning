@@ -1,0 +1,2 @@
+## What are uncontrolled component in react js?
+.An uncontrolled component is a form element (input, checkbox, select, etc.) whose value is managed by the DOM itself, not by React state. Instead of updating state on every change, you read the value only when you need it, using a ref (useRef).
