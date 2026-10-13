@@ -1,0 +1,2 @@
+# what is  API?
+ An API (Application Programming Interface) in React Router refers to the available components, hooks, and functions that developers use to manage navigation and routing in a React application.
